@@ -42,4 +42,6 @@
 ---
 
 ## 📬 Connect with Me
+- **Email:** [l0504125021@gmail.com](mailto:l0504125021@gmail.com)
 - **GitHub:** [lali-Projects](https://github.com/lali-Projects)
+- 
